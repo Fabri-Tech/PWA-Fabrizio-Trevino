@@ -1,3 +1,4 @@
 .DS_store
 node__modules
 .env
+node_modules
